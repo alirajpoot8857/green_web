@@ -1,0 +1,392 @@
+@media(max-width:1880px) {
+}
+
+@media(max-width:1780px) {
+}
+
+@media(max-width:1680px) {
+	 
+}
+
+@media(max-width:1560px) {
+	 
+}
+
+@media(max-width:1480px) {
+	 
+}
+
+@media(max-width:1367px) {
+    .mt-60 {
+        margin-top: 45px;
+    }
+    .title { 
+        font-size: 40px; 
+    }
+    .step_form {
+        padding: 33px 45px;
+    }
+    .form-control {
+        height: 54px;
+    }
+    #content { 
+        padding: 45px 20px 46px 20px;
+    }
+   
+}
+
+@media(max-width:1280px) { 
+    .content_login h1 { 
+        font-size: 35px; 
+    }
+    .budget-analysis .main-card p { 
+        font-size: 13px;
+        line-height: 155%; 
+    }
+    .budget-analysis .main-card {
+        padding: 12px;
+    }.budget-analysis .grade-btn span { 
+        font-size: 17px;
+        line-height: 31px; 
+    }
+    .budget-analysis .grade-btn { 
+        font-size: 10px; 
+        line-height: 11px; 
+    }
+    .banner-content {
+        margin-top: 0;
+        margin-bottom: 48px; 
+    }
+    .f-70 { 
+        font-size: 53px;
+    }
+    .f-26 { 
+        font-size: 21px; 
+        line-height: 133%; 
+    }
+    .f-52 { 
+        font-size: 40px;  
+    }
+    .faq_Wrap .accordion-button { 
+        font-size: 19px; 
+    }
+    .heading_Wrap { 
+        text-align: center;
+    }
+    .Client_Reviews {
+        margin: 95px 0px;
+    }
+    .header {
+        padding: 10px 0; 
+    }
+    .mt-250 {
+        margin-top: 140px;
+    }
+}
+
+@media(max-width:1199px) {
+    .theme_container {
+        max-width: 985px; 
+    }
+    .success_box {
+        margin: 129px 0 45px; 
+        padding: 20px 20px;
+    }
+}
+
+@media(max-width:991px) { 
+    .home_page::after { 
+        height: 699px;
+    }
+    .Why_Evergreen_img_after{
+        display: none;
+    }
+        #sidebar {
+            margin-left: -325px;
+        }
+        #sidebar.active {
+            margin-left: 0;
+        }
+        #sidebarCollapse span {
+            display: none;
+        } 
+        #content {
+            width: 100%; 
+        }
+        .login_wrap { 
+            grid-template-columns: 100%; 
+        }
+        .content_login p{
+            text-align: center;
+        }
+        .content_login h1 {
+            font-size: 28px;
+            text-align: center;
+        }
+        .info_login_content::after { 
+           display: none;
+        }
+        .login_wrap{
+            overflow: auto;
+        }
+        .login_logo img {
+            width: 209px;
+            margin: 0 auto 17px;
+        }
+        .login_wrap {
+            overflow: auto;
+            padding-bottom:40px;
+        } 
+    .user_list { 
+        flex-direction: column;
+    }
+    .content_login { 
+        padding: 54px 30px;
+    }
+    .mb_show{
+    display: inline;
+    }
+    .wrapper #sidebar { 
+        z-index: 9;
+    }
+    .mb_show_cross{
+        display: inline;
+    }
+    .user_wrap {
+        width: 179px;
+        display: flex;
+    }
+    section.Why_Evergreen {
+        text-align: center;
+    }
+    .Why_Evergreen p {
+        text-align: center !important;
+    }
+    .Why_Evergreen_img {
+        width: 100%;
+    }
+    .Why_Evergreen {
+        margin-top: 67px; 
+    }
+    .header .navbar-brand img {
+        width: 148px;
+        height: auto;
+    }
+    .header {
+        padding: 7px 0; 
+        z-index: 1;
+    }
+    .faq_Wrap .accordion-item {
+        margin-bottom: 17px;
+    }
+    .faq_Wrap .accordion-button {
+        font-size: 15px;
+        padding: 16px 16px 16px;
+    }
+    .faq_Wrap .accordion-button::after {
+        width: 12px; 
+        height: 12px; 
+    }
+    .footer_top_inner { 
+        padding: 35px 23px 35px 23px; 
+        text-align: center;
+    }
+     .justify-content-end.d-flex {
+        justify-content: center !important;
+    }
+    .footer_top_inner p {
+        margin-bottom: 15px !important;
+    }
+    .footer_Wrap { 
+        padding-top: 119px;
+    }
+    h1.f26.text-white {
+        margin-top: 23px;
+    }
+    .header ul li .nav-link::after{
+        display: none;
+    }
+    .navbar-toggler img {
+        width: 30px;
+    }
+    header.header.header_wrap {
+        background: #4e9c4b url(../images/SiteImg/header-bg.png);
+    }
+    .about_right_Wrap,
+    .about_left_Wrap { 
+        margin: 109px auto 0;
+    }
+   .row_rev {
+        flex-direction: column-reverse;
+    }
+    .mt_one {
+        margin-top: 54px;
+    }
+    .CreditCounseling_inner {
+        padding: 0px 28px 20px; 
+    }
+    .custom_modal .modal-dialog {
+        max-width: calc(100% - 20px) !important;
+        margin: 190px auto;
+    }
+    .custom_modal .modal-content {   
+        padding: 40px 20px 20px;
+    }
+    .feadback_box { 
+        padding: 30px 25px 30px;
+    }
+}
+
+@media(max-width:768px) {
+    .custom_modal .btn_close { 
+        top: 9px;
+        right: 12px; 
+        width: 20px;
+    }
+    .success_box {
+        margin: 109px 0 35px; 
+        padding: 20px 20px;
+    }
+    .Who_Evergreen_card { 
+        padding: 20px; 
+    }
+    .mt-250 {
+        margin-top: 108px;
+    }
+    .custom_card { 
+        min-height: auto; 
+    }
+    .f-70 {
+        font-size: 34px;
+    }
+    .f-18 { 
+        font-size: 16px; 
+    }
+    .mt-60 {
+        margin-top: 33px;
+    }
+    .title {
+        font-size: 32px;
+    }
+    .step_form {
+        padding: 33px 21px;
+    }
+    .Budget_Analysis.mt-60 {
+        margin-top: 0;
+    }
+    .logo_img img {
+        width: 152px;
+    }
+    .btn_brnd-outline { 
+        font-size: 13px; 
+        padding: 10px 24px; 
+    }
+    .btn_brnd { 
+        font-size: 13px;
+    }
+    .breadcrumb-section .breadcrumb-item {
+        font-weight: 400;
+        font-size: 13px;
+        line-height: 160%;
+        color: #CDCDCD;
+    }
+     
+.breadcrumb-section .breadcrumb-item a {
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 160%;
+    color: #0C1922;
+}
+.mt-35 {
+    margin-top: 13px;
+}
+.Client_Reviews {
+    margin: 51px 0px;
+}
+.clinet_card::after { 
+    width: 61.641px; 
+    height: 61.641px;
+    background-size: cover;
+}
+.clinet_card { 
+    margin-bottom: 19px; 
+}
+.custom_card_body .mt-35 {
+    margin-top: 27px;
+}
+}
+
+@media(max-width:575px) {
+    .info_login_content { 
+        min-height: 183px;
+        margin-bottom: 29px;
+    }
+    .mr-22 {
+        margin-right: 10px;
+    }
+    .pl-45 {
+        padding-left: 20px;
+    }
+    .about_left_img::before,
+    .about_right_img::before {
+        width: 361px;
+        height: 280px;
+    }
+    .about_content.w-538 {
+        text-align: center;
+    }
+}
+
+@media(max-width:480px) {
+    .banner-content {
+        padding-top: 117px;
+        margin-bottom: 37px;
+    }
+    .f-52 {
+        font-size: 33px;
+    }
+    .header {
+        padding: 5px 0;
+        z-index: 1;
+    }
+    
+    .CreditCounseling_inner {
+        padding: 0px 14px 20px;
+    }
+    .radio_wrap_question.pl-45 {
+        padding-left: 54px;
+    }
+    .number_question {
+        width: 61px;
+    }
+    .pt-40 {
+        padding-top: 29px !important;
+    }
+}
+
+@media(max-width:376px) { 
+.content_login h1 {
+    font-size: 20px;
+    text-align: center;
+    line-height: normal;
+}
+.f18 { 
+    font-size: 13px;
+}	
+.f-16 { 
+    font-size: 14px; 
+} 
+.banner-content {
+    padding-top: 117px;
+    margin-bottom: 48px;
+}
+.f-52 {
+    font-size: 30px;
+}
+.f-70 {
+    font-size: 30px;
+}
+.list_item li{ 
+	font-size: 14px;  
+}
+}
